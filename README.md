@@ -22,7 +22,6 @@ https://www.netlify.com/
 resources-
 am honestly, when I got stuck and need any suggestions I went to Youtube ,other Git repo ,mr Chat Gpt , mr Gemini , MDN web docs and other Documentations available as free and online resources.
 
-NOTE- 
-Please made an apikey and add to my "script.js" file before trying
+⚠️ Note: You need to generate your own free API key from OpenWeather and add it to script.js to make it work!
 
 https://developer.mozilla.org/en-US/
