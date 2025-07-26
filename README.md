@@ -1,19 +1,28 @@
-# CalmCast-Weather
-tools i used 
-Looka - for making logo https://looka.com/
+HEllO EVERYONE
+My used tools :- 
 
-Open Weather - for creating API key https://openweathermap.org/
+Looka - for making logo
+https://looka.com/
 
-Canva - for designing layout https://www.canva.com/
+Open Weather - for creating API key
+https://openweathermap.org/
 
-Pixabay - for sound effects https://pixabay.com/
+Canva - for designing layout
+https://www.canva.com/
 
-freeconvert - online tool for converting audio format and compress https://www.freeconvert.com/
+Pixabay - for sound effects
+https://pixabay.com/
 
-Netlify - for deploying my project https://www.netlify.com/
+freeconvert - online tool for converting audio format and compress
+https://www.freeconvert.com/
 
-resources- am honestly, when I got stuck and need any suggestions I went to Youtube ,other Git repo ,mr Chat Gpt , mr Gemini , MDN web docs and other Documentations available as free and online resources.
+Netlify - for deploying my project
+https://www.netlify.com/
 
-NOTE- Please made an apikey and add to my "script.js" file before trying
+resources-
+am honestly, when I got stuck and need any suggestions I went to Youtube ,other Git repo ,mr Chat Gpt , mr Gemini , MDN web docs and other Documentations available as free and online resources.
+
+NOTE- 
+Please made an apikey and add to my "script.js" file before trying
 
 https://developer.mozilla.org/en-US/
